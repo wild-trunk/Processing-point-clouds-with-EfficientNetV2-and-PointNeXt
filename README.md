@@ -77,4 +77,4 @@ Used dataset can be accessed from [here](https://e.pcloud.link/publink/show?code
 
 ## Our reference
 
-Master's thesis and full reference can be accessed here.
+Master's thesis and full reference can be accessed [here](https://dk.um.si/IzpisGradiva.php?id=88822&lang=eng).
